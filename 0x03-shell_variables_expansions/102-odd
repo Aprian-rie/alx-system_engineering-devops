@@ -1,3 +1,2 @@
 #!/bin/bash
 grep -n '^' | grep -v ':2:' | cut -d: -f2-
-
