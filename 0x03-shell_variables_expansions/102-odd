@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -E '^[[:digit:]]*[13579]:'
+grep [13579]
